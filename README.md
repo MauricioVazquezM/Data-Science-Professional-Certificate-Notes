@@ -24,4 +24,4 @@
 
 ## Bibliography
 
-- 
+- Irizarry, R. A. (2019). Introduction to Data Science (First Edition). CRC Press.
