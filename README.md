@@ -18,7 +18,7 @@
 
 
 ## Practice Data
-- " Case studies include: Trends in World Health and Economics, US Crime Rates, The Financial Crisis of 2007-2008, Election Forecasting, Building a Baseball Team (inspired by Moneyball), and Movie Recommendation Systems."
+- "Case studies include: Trends in World Health and Economics, US Crime Rates, The Financial Crisis of 2007-2008, Election Forecasting, Building a Baseball Team (inspired by Moneyball), and Movie Recommendation Systems."
 
 ## Syllabus
 - R Basics
