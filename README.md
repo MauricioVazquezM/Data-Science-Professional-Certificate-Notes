@@ -1,7 +1,7 @@
 # Data-Science-Professional-Certificate-Notes
 
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2rLkJzbPUxXq3BaPimgkX8xVrR2nDF0GQHoHEQvKN9YCyYSELJlHqD9Hs2A3JdNwmfv0&usqp=CAU">
+<img src="https://miro.medium.com/max/1400/1*CVBQwEVP10IRUH3J5b3RWA.jpeg">
 </p>
 
 
