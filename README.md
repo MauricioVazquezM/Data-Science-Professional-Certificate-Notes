@@ -4,8 +4,6 @@
 <img src="https://miro.medium.com/max/1400/1*CVBQwEVP10IRUH3J5b3RWA.jpeg">
 </p>
 
-
-
 ### Content
 * [Course objective](#Course-objective)
 * [Practice data](#Practice-data)
