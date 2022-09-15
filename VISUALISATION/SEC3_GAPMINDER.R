@@ -312,3 +312,13 @@ surv_income %>% ggplot(aes(income, infant_survival_rate, label = group, color = 
   scale_y_continuous(trans = "logit", limit = c(0.875, .9981),
                      breaks = c(.85, .90, .95, .99, .995, .998)) +
   geom_label(size = 3, show.legend = FALSE) 
+
+
+
+### OTHER EXAMPLES DATA FILTER
+df <- gapminder %>% 
+  filter(continent=="Africa" & year == 2012 & fertility <=3 & life_expectancy>=70) %>%
+  select(country, region)
+
+gapminder
+
